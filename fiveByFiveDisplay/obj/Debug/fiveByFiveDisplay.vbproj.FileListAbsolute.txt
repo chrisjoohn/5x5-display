@@ -1,0 +1,11 @@
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\bin\Debug\fiveByFiveDisplay.exe.config
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\bin\Debug\fiveByFiveDisplay.exe
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\bin\Debug\fiveByFiveDisplay.pdb
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\bin\Debug\fiveByFiveDisplay.xml
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.Form1.resources
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.Resources.resources
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.vbproj.GenerateResource.Cache
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.exe
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.xml
+C:\Users\CJMulingbayan\Documents\Visual Studio 2015\Projects\fiveByFiveDisplay\fiveByFiveDisplay\obj\Debug\fiveByFiveDisplay.pdb
